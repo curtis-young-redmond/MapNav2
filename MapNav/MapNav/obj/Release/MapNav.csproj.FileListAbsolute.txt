@@ -1,0 +1,8 @@
+C:\Users\Curtis\Documents\Visual Studio 2008\Projects\Project1\MapNav\MapNav\bin\Release\MapNav.exe
+C:\Users\Curtis\Documents\Visual Studio 2008\Projects\Project1\MapNav\MapNav\bin\Release\MapNav.pdb
+C:\Users\Curtis\Documents\Visual Studio 2008\Projects\Project1\MapNav\MapNav\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Curtis\Documents\Visual Studio 2008\Projects\Project1\MapNav\MapNav\obj\Release\MapNav.Form1.resources
+C:\Users\Curtis\Documents\Visual Studio 2008\Projects\Project1\MapNav\MapNav\obj\Release\MapNav.Properties.Resources.resources
+C:\Users\Curtis\Documents\Visual Studio 2008\Projects\Project1\MapNav\MapNav\obj\Release\MapNav.csproj.GenerateResource.Cache
+C:\Users\Curtis\Documents\Visual Studio 2008\Projects\Project1\MapNav\MapNav\obj\Release\MapNav.exe
+C:\Users\Curtis\Documents\Visual Studio 2008\Projects\Project1\MapNav\MapNav\obj\Release\MapNav.pdb
